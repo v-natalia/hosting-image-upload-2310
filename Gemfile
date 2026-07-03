@@ -68,4 +68,4 @@ gem "bootstrap", "~> 5.3"
 gem "simple_form"
 gem "sassc-rails"
 gem "dotenv-rails"
-
+gem "cloudinary"
